@@ -1,0 +1,1174 @@
+[
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu_item_detail.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\activity_menu_item_detail.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_combo_box_layout.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\combo_box_layout.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_food.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_food.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rice.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\rice.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_topcorner.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_topcorner.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_sad.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_sad.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_group.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_group.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_users.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_users.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_unselected.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\dot_unselected.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_chef.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_chef.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_users.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\icon_users.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_logout.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_topcorner.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_topcorner.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_loading.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_add_photo_alternate_24.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_add_photo_alternate_24.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_member_main.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\activity_member_main.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_secondary_button_background.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\secondary_button_background.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mayonaise.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\mayonaise.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_japan.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_japan.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_trash.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_trash.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sushi.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\sushi.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_trashwhite.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_trashwhite.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_users.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_users.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cooking.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cooking.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_okonomiyaki.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\okonomiyaki.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_admin_main_menu_fragment_layout.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\admin_main_menu_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_add_photo_alternate_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_team.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_team.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_fooditemtop.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_fooditemtop.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete_confirmation_top_background.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\delete_confirmation_top_background.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_foodmenu.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_foodmenu.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_cancel_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_cancel_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_salmon.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\salmon.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_addwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_addwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_onigiri.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\onigiri.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sad.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_sad.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_add_photo_alternate_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_add_photo_alternate_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_chef.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_chef.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shrimp.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\shrimp.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_food.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_food.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_screen_dot_layout.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\splash_screen_dot_layout.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_redmoon.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_redmoon.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_takeorder.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_takeorder.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_group.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_group.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_user.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_sadwhite.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_sadwhite.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_food.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_food.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_springonion.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\springonion.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noodle.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\noodle.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cooking.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cooking.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sesame.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\sesame.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_takeorder.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_takeorder.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_fooditemtop.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_fooditemtop.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_dark_grey.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\dot_dark_grey.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chef.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_chef.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\font_asian_hiro.ttf.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\font\\asian_hiro.ttf"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_redmoon.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_redmoon.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_fooditemtop.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_fooditemtop.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_main.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\activity_admin_main.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_group.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_group.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cooking.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cooking.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_item_small_layout.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\menu_item_small_layout.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_txt_cursor_color.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\txt_cursor_color.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_food.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_food.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food_item_detail_bottom_panel.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\food_item_detail_bottom_panel.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_edit_menu_ingredients_layout.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\add_edit_menu_ingredients_layout.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_team.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_team.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_addwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_addwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_redmoon.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_redmoon.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_logout.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nori.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\nori.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tuna.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\tuna.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_japan.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_japan.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_sadwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_sadwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_info.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cooking.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cooking.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_delete_confirmation_popup_layout.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\delete_confirmation_popup_layout.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_sadwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_sadwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_soysauce.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\soysauce.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_info.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_usercircle.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_usercircle.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_profile_popup_layout.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\edit_profile_popup_layout.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_addwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_addwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tomatosauce.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\tomatosauce.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_food.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_food.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_usercircle.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_usercircle.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tertiary_yellow_button_background.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\tertiary_yellow_button_background.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_redmoon.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_redmoon.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_trashwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_trashwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flour.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\flour.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_japan.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_japan.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_group.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_group.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_users.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_users.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_redmoon.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_redmoon.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_chef.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_chef.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_selected.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\dot_selected.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_trash.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_trash.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_team.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_team.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_user.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_foodmenu.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_foodmenu.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_japan.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_japan.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_chef.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_chef.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_addwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_addwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_logout.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_trashwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_trashwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_item_large_layout.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\user_item_large_layout.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_fooditemtop.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_fooditemtop.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_trashwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_trashwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_cancel_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_cancel_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\font_ms_sans_serif.ttf.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\font\\ms_sans_serif.ttf"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cabbage.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\cabbage.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_screen_recview_layout.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\splash_screen_recview_layout.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_usercircle.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_usercircle.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_top.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_top.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_add_photo_alternate_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_takeorder.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_takeorder.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_logout.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\icon_logout.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_team.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_team.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_logout_white.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\icon_logout_white.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_logout.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_katsuobushi.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\katsuobushi.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_top.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_top.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_users.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_users.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_select_image.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\icon_select_image.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_fooditemtop.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_fooditemtop.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_admin_main_users_fragment_layout.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\admin_main_users_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_edit_menu.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\activity_add_edit_menu.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_food.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_food.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_egg.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\egg.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_add_photo_alternate_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_takeorder.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_takeorder.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sad.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_sad.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_topcorner.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_topcorner.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_topcorner.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_topcorner.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_logout.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_group.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_group.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_chef.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_chef.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_fooditemtop.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_fooditemtop.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ramen.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\ramen.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_trash.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_trash.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_topcorner.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_topcorner.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cooking.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cooking.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_red_moon.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\icon_red_moon.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_user_circle_white.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\icon_user_circle_white.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_confirmed.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_confirmed.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_salt.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\salt.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_sad.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_sad.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_cancel_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_cancel_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_confirmed.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_confirmed.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_txt_background.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\txt_background.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_foodmenu.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_foodmenu.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\font_open_sans_light.ttf.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\font\\open_sans_light.ttf"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_foodmenu.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_foodmenu.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_item_large_layout.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\menu_item_large_layout.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_trash.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_trash.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_food.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\icon_food.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_usercircle.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_usercircle.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_top.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_top.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_sadwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_sadwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_sad.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_sad.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_fooditemtop.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_fooditemtop.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_confirmed.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_confirmed.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_trash.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_trash.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_cancel_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_cancel_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\font_asian_ninja.ttf.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\font\\asian_ninja.ttf"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_japan.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_japan.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tertiary_button_background.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\tertiary_button_background.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_users.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_users.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_info.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_logout.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_top.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_top.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_cancel_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_cancel_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_info.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_trash.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_trash.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_takeorder.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_takeorder.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_user.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\icon_user.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cooking.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cooking.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tertiary_green_button_background.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\tertiary_green_button_background.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_logout.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete_confirmation_bottom_background.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\delete_confirmation_bottom_background.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_info.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_top.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_top.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_trashwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_trashwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_addwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_addwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cooking.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cooking.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sadwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_sadwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_trash.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_trash.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_group.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_group.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_primary_button_background.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\primary_button_background.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_redmoon.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_redmoon.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_addwhite.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_addwhite.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_top.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_top.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_topcorner.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_topcorner.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_garlic.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\garlic.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_squid.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\squid.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_topcorner.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_topcorner.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_foodmenu.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_foodmenu.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_team.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_team.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_foodmenu.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_foodmenu.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sadwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_sadwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_users.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_users.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food_item_background.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\food_item_background.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_addwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_addwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_trashwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_trashwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_japan.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_japan.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_confirmed.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_confirmed.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_quartenary_button_background.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\quartenary_button_background.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_sadwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_sadwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chicken.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\chicken.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_group.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_group.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_users.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_users.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chef.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_chef.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_member_layout.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\new_member_layout.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_details_layout.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\menu_details_layout.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_confirmed.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_confirmed.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_usercircle.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_usercircle.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_edit_menu_details_layout.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\add_edit_menu_details_layout.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_info.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_takeorder.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_takeorder.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_ingredients_layout.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\ingredients_layout.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\layout_admin_main_home_fragment_layout.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\layout\\admin_main_home_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_team.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_team.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_top.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_top.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_cancel_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_cancel_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_takeorder.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_takeorder.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_sad.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_sad.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_sad.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_sad.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_redmoon.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_redmoon.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_team.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_team.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_user_circle.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\icon_user_circle.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sushi2.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\sushi2.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_confirmed.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_confirmed.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_cancel_24.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_cancel_24.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_food.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_food.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_foodmenu.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_foodmenu.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_confirmed.xml.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_confirmed.xml"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_usercircle.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_usercircle.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_usercircle.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_usercircle.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_search.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\drawable\\icon_search.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\font_open_sans_regular.ttf.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\src\\main\\res\\font\\open_sans_regular.ttf"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_add_photo_alternate_24.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_add_photo_alternate_24.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_trashwhite.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_trashwhite.png"
+    },
+    {
+        "merged": "C:\\android_project\\Kitchen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_japan.png.flat",
+        "source": "C:\\android_project\\Kitchen\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_japan.png"
+    }
+]

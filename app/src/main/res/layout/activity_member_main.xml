@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@android:color/transparent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/transparent">
+
+            <ImageView
+                android:id="@+id/memberMainImgBackgroundOrnament"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:alpha="0"
+                android:background="@android:color/transparent"
+                android:translationY="-300dp"
+                app:srcCompat="@drawable/ic_top" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@android:color/transparent"
+                android:clipToPadding="true"
+                android:orientation="vertical"
+                android:paddingStart="0dp"
+                android:paddingLeft="0dp"
+                android:paddingEnd="0dp"
+                android:paddingRight="0dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="36dp"
+                    android:layout_marginLeft="36dp"
+                    android:layout_marginEnd="36dp"
+                    android:layout_marginRight="36dp"
+                    android:background="@android:color/transparent"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/memberMainLblHello"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:alpha="0"
+                        android:background="@android:color/transparent"
+                        android:text="Hello,"
+                        android:textColor="@color/colorWhite"
+                        android:textSize="28sp"
+                        android:textStyle="bold"
+                        android:translationY="-10dp" />
+
+                    <ImageView
+                        android:id="@+id/memberMainBtnProfile"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:alpha="0"
+                        android:background="@android:color/transparent"
+                        android:scaleType="fitEnd"
+                        android:translationY="-50dp"
+                        app:srcCompat="@drawable/icon_user_circle_white" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/memberMainLblName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="36dp"
+                    android:layout_marginLeft="36dp"
+                    android:layout_marginTop="8dp"
+                    android:alpha="0"
+                    android:background="@android:color/transparent"
+                    android:text="Gavriel Satrio Widjaya"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="18sp"
+                    android:translationX="-10dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    tools:layout_editor_absoluteX="44dp"
+                    tools:layout_editor_absoluteY="80dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="36dp"
+                    android:layout_marginLeft="36dp"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginEnd="36dp"
+                    android:layout_marginRight="36dp"
+                    android:layout_weight="2"
+                    android:background="@android:color/transparent"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/memberMainLblDesc"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_weight="1.5"
+                        android:alpha="0"
+                        android:background="@android:color/transparent"
+                        android:fontFamily="@font/open_sans_light"
+                        android:gravity="start|left|center_vertical"
+                        android:text="Looks like the administrator have not give you any role yet"
+                        android:textColor="@color/colorAlmostWhite"
+                        android:textSize="14sp"
+                        android:textStyle="italic"
+                        android:translationX="-20dp"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent" />
+
+                    <ImageView
+                        android:id="@+id/memberMainImg"
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:layout_weight="1.3"
+                        android:alpha="0"
+                        android:background="@android:color/transparent"
+                        android:translationX="20dp"
+                        app:srcCompat="@drawable/ic_sadwhite" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/memberMainLblRecommendedItems"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="36dp"
+                    android:layout_marginLeft="36dp"
+                    android:layout_marginTop="36dp"
+                    android:layout_marginEnd="36dp"
+                    android:alpha="0"
+                    android:background="@android:color/transparent"
+                    android:text="Recommended Items"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:translationX="-15dp" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/memberMainRecViewRecommendedItems"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="36dp"
+                    android:layout_marginLeft="36dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginEnd="36dp"
+                    android:layout_marginRight="36dp"
+                    android:background="@android:color/transparent" />
+
+                <TextView
+                    android:id="@+id/memberMainLblPopularItems"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="36dp"
+                    android:layout_marginLeft="36dp"
+                    android:layout_marginTop="36dp"
+                    android:layout_marginEnd="36dp"
+                    android:layout_marginRight="36dp"
+                    android:alpha="0"
+                    android:background="@android:color/transparent"
+                    android:text="Most Popular Items"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:translationX="-15dp" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/memberMainRecViewMostPopularItems"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginEnd="6dp"
+                    android:background="@android:color/transparent" />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
